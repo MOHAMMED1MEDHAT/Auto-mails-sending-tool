@@ -1,0 +1,2 @@
+smtplib,sslemail.messag,EmailMessage,email.mime.multipart,MIMEMultipart
+,email.mime.text,MIMEText,uvicorn,fastApi

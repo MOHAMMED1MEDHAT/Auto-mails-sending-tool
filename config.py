@@ -1,0 +1,3 @@
+SENDER_EMAIL_ADDRESS = "demo22793@gmail.com"
+SENDER_PASSWORD = "0123456./"
+RECEIVER_EMAIL_ADDRESS=["01028605670m@gmail.com"] #list of the emails
